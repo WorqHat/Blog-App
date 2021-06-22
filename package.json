@@ -2,8 +2,7 @@
   "name": "graphql-blog-app",
   "version": "1.0.0",
   "description": "A blog app with GraphQL, Apollo client and Vue.js",
-  "author": "Chimezie Enyinnaya <meziemichael@gmail.com>",
-  "private": true,
+  "author": "WorqHat",
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
